@@ -1,0 +1,7 @@
+HelloServlet 파일을 만든다
+	호출 : hello.do
+hello.jsp 호출
+
+jsp -> servlet -> jsp 
+
+servlet -> jsp -> servlet -> jsp
